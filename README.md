@@ -12,7 +12,7 @@ You can call me Richard, everyone does. I'm a computer programmer currently in N
 * SQLite. 
 * Bash.
 
-I'm currently working on a portfolio of personal projects. For starters you can check out the [new-site](https://github.com/rkthoya/news-site) and [podgretor](https://github.com/rkthoya/Podregator) repos pinned to my profile here.
+I'm currently working on a portfolio of personal projects. For starters you can check out the [new-site](https://github.com/rkthoya/news-site) and [podgretor](https://github.com/rkthoya/Podregator) repos pinned on my profile here.
 
 I'm also learning about [API Design](https://apiacademy.co/api-certification/).
 
